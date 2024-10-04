@@ -1,0 +1,5 @@
+services:
+  notes:
+    image: robaccia
+    ports:
+      - "8080:80"
