@@ -1,5 +1,5 @@
 services:
   notes:
-    image: robaccia
+    image: web_app_notes
     ports:
       - "8080:80"
